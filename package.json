@@ -1,0 +1,24 @@
+{
+  "name": "atm_functionality_app_by_adil",
+  "version": "1.0.8",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "bin":{
+    "atm_functions_app":"index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "figlet": "^1.6.0",
+    "inquirer": "^9.2.0"
+  },
+  "devDependencies": {
+    "@types/figlet": "^1.5.5",
+    "@types/inquirer": "^9.0.3"
+  }
+}
